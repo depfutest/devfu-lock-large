@@ -76,7 +76,8 @@ GEM
       sass (>= 3.3.0, < 3.5)
       sprockets-es6 (>= 0.9.0)
     gemnasium-parser (0.1.9)
-    gems (0.8.3)
+    gems (1.0.0)
+      json
     gh (0.15.0)
       addressable (~> 2.4.0)
       backports
