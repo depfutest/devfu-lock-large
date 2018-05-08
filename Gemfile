@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://devfu-geminabox.flowbyte.net/'
 ruby '2.3.1'
 
 gem 'goliath'
