@@ -1,5 +1,5 @@
 GEM
-  remote: http://devfu-geminabox.flowbyte.net/
+  remote: https://rubygems.org/
   specs:
     activesupport (5.1.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
