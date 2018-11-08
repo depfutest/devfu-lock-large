@@ -50,7 +50,7 @@ GEM
     multi_json (1.12.1)
     multipart-post (2.0.0)
     public_suffix (2.0.5)
-    rack (1.6.8)
+    rack (1.6.11)
     rack-accept-media-types (0.9)
     rack-contrib (1.4.0)
       git-version-bump (~> 0.15)
